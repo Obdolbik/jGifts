@@ -6,7 +6,7 @@ import ru.aslteam.api.bukkit.command.BasicCommand;
 import ru.aslteam.api.bukkit.command.interfaze.SenderType;
 import ru.aslteam.api.bukkit.command.interfaze.Usable;
 
-public class CMDGift extends BasicCommand{
+public class CMDGift extends BasicCommand {
 
 	public CMDGift(String command, Usable<CommandSender, String[]> func) {
 		super(command, func);
@@ -15,7 +15,7 @@ public class CMDGift extends BasicCommand{
 
 	@Override
 	public String getDescription() {
-		return "использование гифт-кода";
+		return "пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅ";
 	}
 
 	@Override
