@@ -1,0 +1,13 @@
+name: jGifts
+version: 0.0.1-SNAPSHOT
+description: ''
+author: Obdolbik
+authors: [ASL std., Snoop1CattZ69, Obdolbik]
+
+api-version: 1.13
+
+main: ru.aslteam.jgifts.JG
+depend: []
+softdepend: []
+
+commands:
